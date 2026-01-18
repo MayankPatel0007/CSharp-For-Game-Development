@@ -1,0 +1,15 @@
+D:\CSharp-For-Game-Development\Loops\Loops\bin\Debug\net10.0\Loops.exe
+D:\CSharp-For-Game-Development\Loops\Loops\bin\Debug\net10.0\Loops.deps.json
+D:\CSharp-For-Game-Development\Loops\Loops\bin\Debug\net10.0\Loops.runtimeconfig.json
+D:\CSharp-For-Game-Development\Loops\Loops\bin\Debug\net10.0\Loops.dll
+D:\CSharp-For-Game-Development\Loops\Loops\bin\Debug\net10.0\Loops.pdb
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.AssemblyInfoInputs.cache
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.AssemblyInfo.cs
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.csproj.CoreCompileInputs.cache
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.sourcelink.json
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.dll
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\refint\Loops.dll
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.pdb
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\Loops.genruntimeconfig.cache
+D:\CSharp-For-Game-Development\Loops\Loops\obj\Debug\net10.0\ref\Loops.dll
