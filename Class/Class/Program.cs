@@ -1,8 +1,8 @@
 ﻿namespace Class
 {
-    internal class Program
+    public class Program //inside namespace it can be internal or public
     {
-        static void Main(string[] args)
+        private static void Main(string[] args) //private other cant access main
         {
             /*Console.WriteLine("Hello, World!");
             int age=0;//intalize of variable
@@ -21,9 +21,9 @@
             Player.SayHello();
         }
 
-        class Player
+        private class Player // private only accessible by program class
         {
-            public static string name="000";//its class variable => fields
+            private static string name="000";//its class variable => fields ,private beacuse only this class have access
             public Player(string name)//constructor =>can pass arguments
             {
                 //current object name is  equal to passed parameter
