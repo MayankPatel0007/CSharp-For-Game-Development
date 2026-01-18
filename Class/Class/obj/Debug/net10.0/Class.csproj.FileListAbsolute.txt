@@ -1,0 +1,15 @@
+D:\CSharp-For-Game-Development\Class\Class\bin\Debug\net10.0\Class.exe
+D:\CSharp-For-Game-Development\Class\Class\bin\Debug\net10.0\Class.deps.json
+D:\CSharp-For-Game-Development\Class\Class\bin\Debug\net10.0\Class.runtimeconfig.json
+D:\CSharp-For-Game-Development\Class\Class\bin\Debug\net10.0\Class.dll
+D:\CSharp-For-Game-Development\Class\Class\bin\Debug\net10.0\Class.pdb
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.AssemblyInfoInputs.cache
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.AssemblyInfo.cs
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.csproj.CoreCompileInputs.cache
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.sourcelink.json
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.dll
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\refint\Class.dll
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.pdb
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\Class.genruntimeconfig.cache
+D:\CSharp-For-Game-Development\Class\Class\obj\Debug\net10.0\ref\Class.dll
