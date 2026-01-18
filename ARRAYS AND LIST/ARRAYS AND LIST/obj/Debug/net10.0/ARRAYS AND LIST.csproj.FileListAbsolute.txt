@@ -1,0 +1,15 @@
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\bin\Debug\net10.0\ARRAYS AND LIST.exe
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\bin\Debug\net10.0\ARRAYS AND LIST.deps.json
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\bin\Debug\net10.0\ARRAYS AND LIST.runtimeconfig.json
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\bin\Debug\net10.0\ARRAYS AND LIST.dll
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\bin\Debug\net10.0\ARRAYS AND LIST.pdb
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.AssemblyInfoInputs.cache
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.AssemblyInfo.cs
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.csproj.CoreCompileInputs.cache
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.sourcelink.json
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.dll
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\refint\ARRAYS AND LIST.dll
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.pdb
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ARRAYS AND LIST.genruntimeconfig.cache
+D:\CSharp-For-Game-Development\ARRAYS AND LIST\ARRAYS AND LIST\obj\Debug\net10.0\ref\ARRAYS AND LIST.dll
